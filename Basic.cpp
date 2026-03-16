@@ -7,6 +7,6 @@ int main(){
         cout << "true";
     }
     else cout << "false";
-    
+    cout << 23;
 
 }
